@@ -1,0 +1,10 @@
+node_modules
+*.log
+*.log.*
+*.log-*
+*.log/*
+*.log-*/
+*.d.ts
+*.js.map
+*.js.map.*
+*.js.map-*
